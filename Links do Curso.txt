@@ -1,3 +1,4 @@
 01 - Projeto no GitHub: https://github.com/AnselmoPfeifer/MiniCursoAndroid
 02 - Material Google, Sobre UX - http://www.google.com/design/spec/material-design/introduction.html#
-03 - -
+03 - Curso da Udacyti onde o projeto do Google esta - https://www.udacity.com/course/ud853
+04 - Codigo Fonte do projeto do curso - https://github.com/udacity/Sunshine
